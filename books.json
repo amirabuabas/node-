@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Updated Title",
+    "author": "Updated Author",
+    "year": 2023
+  },
+  {
+    "id": 2,
+    "title": "Example Book 2",
+    "author": "Author 2",
+    "year": 2018
+  },
+  {
+    "id": 3,
+    "title": "Example Book 3",
+    "author": "Author 3",
+    "year": 2022
+  },
+  {
+    "title": "New Book",
+    "id": 4
+  }
+]
